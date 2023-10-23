@@ -1,0 +1,9 @@
+{
+  "appId": "org.capacitor.shoppingfael",
+  "appName": "Guia Boulevard",
+  "webDir": "www",
+  "server": {
+    "androidScheme": "https",
+    "url": "http://192.168.15.8:9500"
+  }
+}

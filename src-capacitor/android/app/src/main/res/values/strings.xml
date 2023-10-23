@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Guia Boulevard</string>
+    <string name="title_activity_main">Guia Boulevard</string>
+    <string name="package_name">org.capacitor.shoppingfael</string>
+    <string name="custom_url_scheme">org.capacitor.shoppingfael</string>
+</resources>
